@@ -84,7 +84,11 @@ def Secuencia2(tiempo):
     GPIO.output(14, GPIO.LOW)
     time.sleep(tiempo)
 
+def Secuencia3(tiempo):
 
+def Secuencia4(tiempo):
+
+def Secuencia5(tiempo):
 
 while True:
     Main()
