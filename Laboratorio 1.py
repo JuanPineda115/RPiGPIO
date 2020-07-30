@@ -102,7 +102,7 @@ def Secuencia3(tiempo):
     GPIO.output(18,GPIO.LOW)
     time.sleep(tiempo)
     
-def Secuencia4 (tiempo):
+def Secuencia4(tiempo):
     GPIO.output(14,GPIO.HIGH)
     GPIO.putput(15,GPIO.HIGH)
     time.sleep(tiempo)
