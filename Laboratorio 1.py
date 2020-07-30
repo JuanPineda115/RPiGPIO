@@ -22,15 +22,15 @@ def Main():
             Secuencia2(tiempo1)
             ciclo =+1
         elif(ciclo == 2):
-            Secuencia3()
+            Secuencia3(tiempo1)
             ciclo =+1
         elif(ciclo == 3):
-            Secuencia4()
+            Secuencia4(tiempo1)
             ciclo =+1
+        ##elif(ciclo == 4):
+            ##Secuencia5()
+            ##ciclo =+1##
         elif(ciclo == 4):
-            Secuencia5()
-            ciclo =+1
-        elif(ciclo == 5):
             ciclo = 0
 
 
